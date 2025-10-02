@@ -1,3 +1,7 @@
-# IntelliJ
+# IntelliJ IDEA
 .idea/
 *.iml
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
